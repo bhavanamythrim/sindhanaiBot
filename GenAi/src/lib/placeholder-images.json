@@ -1,0 +1,23 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Two friends talking over coffee",
+      "imageUrl": "https://picsum.photos/seed/hope1/600/400",
+      "imageHint": "friends coffee"
+    },
+    {
+      "id": "2",
+      "description": "A flexible willow tree bending in the wind by a river",
+      "imageUrl": "https://picsum.photos/seed/hope2/600/400",
+      "imageHint": "willow tree"
+    },
+    {
+      "id": "3",
+      "description": "A person smiling while looking at a small potted plant on their desk",
+      "imageUrl": "https://picsum.photos/seed/hope3/600/400",
+      "imageHint": "desk plant"
+    }
+  ]
+}
